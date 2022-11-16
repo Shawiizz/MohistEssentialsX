@@ -4,7 +4,7 @@ Why EssentialsX's PSA about Mohist shouldn't be trusted.
 
 Before reading:
 - I don't natively speak English, so this article may contain spelling errors, I'm sorry for that.
-- Since a few months ago, the EssentialsX plugin is [properly fixed](https://github.com/MohistMC/Mohist/commit/fa50a83b2ec107e78f000a130200b663cf234fe4#diff-0d24b179f56b3af28027a28dba50d851448d3ed889a6ca8b6d1a06c2e8576d35) into Mohist and the modified plugin isn't needed anymore.
+- A few months ago, the EssentialsX plugin was [properly fixed](https://github.com/MohistMC/Mohist/commit/fa50a83b2ec107e78f000a130200b663cf234fe4#diff-0d24b179f56b3af28027a28dba50d851448d3ed889a6ca8b6d1a06c2e8576d35) into Mohist and the modified plugin isn't needed anymore.
 - EssentialsX original page: https://essentialsx.net/do-not-use-mohist.html
 - Mohist's organization: https://github.com/MohistMC
 - "we" and "us" = The Mohist project or Mohist team.
